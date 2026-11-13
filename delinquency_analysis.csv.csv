@@ -1,0 +1,5 @@
+delinquency_category,repayment_count,total_amount_due,total_amount_paid,collection_efficiency
+CURRENT,360,1864828.80,1864828.80,100.00
+1-30 DPD,120,621609.60,621609.60,100.00
+31-60 DPD,60,310804.80,248643.60,80.00
+60+ DPD,60,310804.80,202023.00,65.00
